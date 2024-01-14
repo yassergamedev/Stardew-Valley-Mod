@@ -1,0 +1,6 @@
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\bin\Debug\StardewConfigFramework.dll
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete

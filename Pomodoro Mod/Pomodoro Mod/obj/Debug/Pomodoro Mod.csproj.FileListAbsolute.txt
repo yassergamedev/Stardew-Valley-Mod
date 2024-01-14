@@ -1,0 +1,4 @@
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\Pomodoro Mod\Pomodoro Mod\bin\Debug\Pomodoro Mod.dll
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\Pomodoro Mod\Pomodoro Mod\obj\Debug\Pomodoro Mod.csproj.AssemblyReference.cache
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\Pomodoro Mod\Pomodoro Mod\obj\Debug\Pomodoro Mod.csproj.CoreCompileInputs.cache
+C:\Users\dani alves\Desktop\Stardew-Valley-Mod\Pomodoro Mod\Pomodoro Mod\obj\Debug\Pomodoro Mod.dll
