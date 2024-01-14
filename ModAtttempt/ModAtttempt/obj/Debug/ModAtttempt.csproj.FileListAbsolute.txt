@@ -1,2 +1,0 @@
-C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ModAtttempt\ModAtttempt\obj\Debug\ModAtttempt.csproj.AssemblyReference.cache
-C:\Users\dani alves\Desktop\Stardew-Valley-Mod\ModAtttempt\ModAtttempt\obj\Debug\ModAtttempt.csproj.CoreCompileInputs.cache
